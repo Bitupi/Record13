@@ -1,0 +1,26 @@
+{
+  "name": "Ida Stone",
+  "age": 39,
+  "address": {
+    "street": "Keepu Place",
+    "city": "Fogote",
+    "state": "MN",
+    "zip": "65423"
+  },
+  "contact": {
+    "phone": "(987) 622-8643",
+    "servicePhone": "800544736"
+  },
+  "birthday": "1976-01-21T11:16:09.313Z",
+  "ip": "147.63.227.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Wokeru iziti cewdiz noci ju ti ez sofwa bejol ilge oz ojaicavam sor jef. Nu lutduev jek row diskut ab susalwuk gih cupzasja bumowci bi uhrefbu fizhotaj mesonnoh vapaz cal wugo rozi. Im ti zezakoz hu pikviz wuj bar josubak uje fogwoow wosu rod se surov pi mu. Jekve rem wecil dazapis jekutgac wo nu ubgu kainuvew hoesi zihbirter ez ciwu. Po uwo bo dinoc bi daza zelfibu pableru ag jiv sopjer gaf sibivuk womiz lonakwuk jatguj gir re.",
+    "bio": "Lez linci fu hotdoj hog sun fefif jadic owgoz humot gut tojuzab tuttenpid giod da um ofaba domnuzel. Atfok puztoz nevadef diele viogeoci esbocad hil soma ignem ebocu polcaoh tanvizura dugwegewa tuseseh is hi naewo pa. Ecu savwezca niz helhovad pis ud cek nugido neg ade geki hus wep fikat bi serar. Mikpedmi busotla ehedomsa fe sa hiijuik wojbume fag lo onuaruda pu jez ijiwodod ris oku bav onuzdat. Rad inidik dawu ezo da pevlo kesva vazug lih hor renzeg fakdarun zibsunib vos hehwuwaf kob."
+  },
+  "apiKey": "0596d6b273b81d62dce6f828e8d7f1a6ccd84dc790e3d9a6883a972b3a3bd02f",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
