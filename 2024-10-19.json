@@ -1,0 +1,26 @@
+{
+  "name": "Juan Harper",
+  "age": 48,
+  "address": {
+    "street": "Iddo Extension",
+    "city": "Kideisi",
+    "state": "AL",
+    "zip": "85283"
+  },
+  "contact": {
+    "phone": "(321) 613-8439",
+    "servicePhone": "800215453"
+  },
+  "birthday": "2004-01-10T10:14:24.681Z",
+  "ip": "96.184.37.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Egrok be wuvje icvobi zapi ha owte dewi bacol huapna si lukipup as za uppewej je rohha. Racke tisokva sitibad diju an caparkuw sus edjur sopuv ma buce loledu se an caf coud noli. Pen rocagom bah son ge uh unnaj pemagu rarvoson sin jiirakev zok mikja dem jef redohal miwo nakan. Izeip ugupugza fod udunag soztiow igu mifwiv ozfeh anfov eh be dob keda.",
+    "bio": "Wod abizi memop muz nilubu ca go jonugok ititu egfenus cec co hijumru. Azosa ar gano rihhuh nensivfe ehoha rolohosu ilowar ezpog kibduija fipjehoh macdeg lok riro hivesa kecocuda jajo. Cek uwi garra keg iga bud houg ak nocomcic mevuodi tozzo zejo zic sa ajuwed nuwjepvo peruk hirkew. Oca heg wadec vudi pet upudedle iwaawe ruvub sakvo goj ujwe temlotre isaaffi."
+  },
+  "apiKey": "0aa4f4bfaf0b3a05fae5bca7c16ccd1f02a2074c9e7e59301387e19abae65e08",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
