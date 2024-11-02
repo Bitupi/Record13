@@ -1,0 +1,26 @@
+{
+  "name": "Emma Pena",
+  "age": 26,
+  "address": {
+    "street": "Fisuk Plaza",
+    "city": "Cifeoce",
+    "state": "MS",
+    "zip": "37533"
+  },
+  "contact": {
+    "phone": "(341) 732-4774",
+    "servicePhone": "800239597"
+  },
+  "birthday": "1970-07-23T05:37:01.873Z",
+  "ip": "204.131.53.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Jupuctas bo pep ine soskam odo hine ica maf po abebueh lebbu dus hifzot docsep danilciw. Ruawibi izoho bogde opizi diw gipvurom guwvuivo labok uzubivo ak hoju aji bemzu sezuloir. Wocateuma emi macpa huit ner jikurhas cagdob hedoli ri bug vuluepo ge pi cehut.",
+    "bio": "Fag tomhe avnowap nuime nuofti eceab hogwuulu ewnidme wuw gotalbim pifrawjo jogwanbog rar ebnub vudcaj tal. Lusbiva oma puvosokeh fa fizar pu ih fo zuziw irret ot vek we ojitigja sus sireco duzrikvu tukmo. Odimi er gehor oppoj poh fos wupkujud kaf ge gap op izwap tecume. Migjit gew baf esjevla zemet vem sikji kuca avoiwpo ruhefu cahuuso wabhovig oh mahzim mejlis."
+  },
+  "apiKey": "c4398507265f1d2f3a22916ea8c50d7042049560afe9957ac8e5a6dfec57cb52",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
