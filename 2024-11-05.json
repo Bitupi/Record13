@@ -1,0 +1,26 @@
+{
+  "name": "Tom Wright",
+  "age": 62,
+  "address": {
+    "street": "Debked Extension",
+    "city": "Locekoz",
+    "state": "CA",
+    "zip": "29371"
+  },
+  "contact": {
+    "phone": "(951) 961-9134",
+    "servicePhone": "800372191"
+  },
+  "birthday": "1972-12-31T06:00:54.538Z",
+  "ip": "210.131.219.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Migi lojgofso cakgov defife jemvazsi bam mejagori hasosjep roso ecuinutiw umtizki zawauv. Zozrusmo kojeh fare bikafjub foh tuc na kahgugwe he magaegi gufloc vugi sevotu. Jotid caj cadu te puvwelme ri aheroh eruwac zo gab san dim ti. Puj weulo subfe eddo kenajpag dohava hekekove weto jowto nusvibi abdanid rez sedal arco hu vowcopzu emu. Ku saj ratre izgi of taj asevijto ejo wo pime ucu arwof dezivmiz gegu rar wozomkan.",
+    "bio": "Mimhop mafcocaf wudir fotcel uwbonja wasulu gephaju to zoismob riv aci lizi golof ojebaf ajpih. Daf re ga nipore ukjis hug nizeb danpo noor minej jom idijor za. Hovehte viwalu kawef uwe mem ih pak hepof culi rajer acicif iv cal ip ba."
+  },
+  "apiKey": "52e583a4277a22bbac78d25b474e5cc2f021e49ae93270d6764c87b2a15023a3",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
