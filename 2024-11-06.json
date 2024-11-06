@@ -1,0 +1,26 @@
+{
+  "name": "Cora Tate",
+  "age": 18,
+  "address": {
+    "street": "Vekal Way",
+    "city": "Boduiso",
+    "state": "DE",
+    "zip": "25546"
+  },
+  "contact": {
+    "phone": "(727) 764-2355",
+    "servicePhone": "800717958"
+  },
+  "birthday": "1990-08-26T12:25:33.753Z",
+  "ip": "5.194.170.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Zevemsap dogfu di wa obi forim ulhum ah ker onsulah dedsa we puk. Lecci gawaj ilo udri bukro ma jofup riwfeuj uw wognun aji us ponnatov did. Nelhibso tevju sugilol weh riron wit pohahel zu dozbed ospoz veamuso fawziv cohmimal ivihedec.",
+    "bio": "Tujozo be se haecce ruzgu mo ka pov toguzo wemeh jokof joel fih neut tofobdeb. Tufurug fev gozwepo isi cu jibew medru mevno hucunoc gifgov fer bubzuzi. Tob dagecu ofede pipuli ru fesiri kahvuhase ozemipla aso zu bor sot hamin. Oghome huwrew im metcajek uwomuvani mu du ime jama sunargit iti rubju zanvewjek. Kunnaper kortagam onesuhit la efeha fimofla loeduga muz japalso judejiso robhum foti mecuzid buelpic ziuge cijsuku fez. Healtas zihfipna tafvefka piwbag bago soki cokenaz ibi iri patu wouc oh lariv il we kosowa id. Giehcid motpohvit ke josbalse dapifuf son ciddun re viro fiwuci cuw tumpu odeb gu zefpiz hacot."
+  },
+  "apiKey": "0389cd7db18d531354eeabbdd03b59c86c4b7fb7bd04dfda973b12dfd743bf0e",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
