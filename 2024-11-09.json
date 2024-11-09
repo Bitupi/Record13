@@ -1,0 +1,26 @@
+{
+  "name": "Jane May",
+  "age": 63,
+  "address": {
+    "street": "Oruw View",
+    "city": "Niganof",
+    "state": "FL",
+    "zip": "85098"
+  },
+  "contact": {
+    "phone": "(514) 592-7965",
+    "servicePhone": "800653266"
+  },
+  "birthday": "2000-04-03T10:00:50.475Z",
+  "ip": "88.34.192.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Sehnug rullu ki tubawo musan jechuhze vorsigon uceizo ikzad bosjujac vizulaja asaafiin wuteruja tumucus. Sowco zadtop tagkoper asitekuw uba umbos ulumne ot si ede in do innocen di hoz cop pu. Mof ot do zijoriged le ujamicov hi temmu wocibko mus tase ob.",
+    "bio": "Zo lir paek ba esdaeme ipudopar oci base soji osokemwu of hebavwa ifeuh. Gafut muvi me fik vudnuvgir deezada piwuc weguzlep gevih belac fifzihiz depetoz ciffu ca duupe. Kewov ituvidetu paw idigaf kotzi miom hikbonsu op ehe seg ral ha pizu. Nopejud hede bean fagi uv adato gedwizaj de tazpopnep wud eb dovcug jo kasfo seze efucidgo os ciawu."
+  },
+  "apiKey": "97b69586483760b43f69ad9e9c3a64664dc763edd7b433a68c016d0f6344e73e",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
