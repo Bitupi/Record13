@@ -1,0 +1,26 @@
+{
+  "name": "Lula Caldwell",
+  "age": 24,
+  "address": {
+    "street": "Beka Highway",
+    "city": "Jupzarpi",
+    "state": "NM",
+    "zip": "31117"
+  },
+  "contact": {
+    "phone": "(214) 996-1915",
+    "servicePhone": "800223943"
+  },
+  "birthday": "1987-08-15T04:55:48.485Z",
+  "ip": "97.132.64.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Zor kaiwe cut tuvem ribnu datwamkal bimofug zes keja jasi rac fagjijpeh wi oj. Jabipji fa iseti mu wezevi ji andu de hupe afruru rodammeh wafe batase izpo. Hu lowezgu ju rivvim rut zocweomo kar ogu sipvu zumanci sa cap.",
+    "bio": "Zarjo bewacewa ufa de nuvuvep aziebu dujona ovah occo tav rumpiz uji cetev bazeso pilikbac. Kapehij uridoka zibgup rofvewpip nawo nafzo temni fetaki rof su kicive aginuke lehpijo. Doczovze wew jo ciju di ot ko kebbo vit siolusi timugji tofkota. Go sarah guf amnuw ug bogiw gah ja bic ohu bapiuh maj zoefni be kukiz ideceta."
+  },
+  "apiKey": "9146d56c5ea24514fa38a6186c83aa016bbecc4dec801165b2e7b569f088a029",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
