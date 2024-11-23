@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Foster",
+  "age": 55,
+  "address": {
+    "street": "Umvab Lane",
+    "city": "Vuruaj",
+    "state": "TX",
+    "zip": "91633"
+  },
+  "contact": {
+    "phone": "(573) 433-3664",
+    "servicePhone": "800954554"
+  },
+  "birthday": "1979-12-25T09:27:02.968Z",
+  "ip": "177.49.158.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Musutezi puzdijme di oviro koir dow fofbihak nac nos mooki jawahgam hilal ummu vo maosila nasibifa ru. Me matsi bol bez gurefo hosu nuv vu negaroc caknehra wuwas ahci noj bi opuga kesin vo. Tez udak jounazi dajkojguk leftuca gifa wopapip gorik iz du wagwoodi jij maje nevhij fimled ohcib div emu.",
+    "bio": "Il rikuop cibkuum jiuhnig bu gam ane ripto dep menlov jufdiare sowa torvizo rulacum mukir ca. Rajtif zowusbi re he wipsefsil ri abo enioc awahawi ogi fiwelagud govuw wajokeofe za pisa uv sug. Jel owualeve sanu datwaguw ewape kekpahu nujmil ci serta ukopur ne wojgaadu. Uvcec sajogala avaubut la utvim te rehsaj migi wucubi rese meswufom ajasatbi."
+  },
+  "apiKey": "d2af1db62829d5d3f48301e12cc99d6c208da01eeaa1da7632b146a49e3cc773",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
