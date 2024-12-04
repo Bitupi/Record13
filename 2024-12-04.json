@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Maxwell",
+  "age": 62,
+  "address": {
+    "street": "Fica Parkway",
+    "city": "Kaswitwo",
+    "state": "MS",
+    "zip": "34721"
+  },
+  "contact": {
+    "phone": "(935) 718-5877",
+    "servicePhone": "800174865"
+  },
+  "birthday": "1980-03-26T07:15:17.484Z",
+  "ip": "162.71.139.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Coboze cigub te cevotavi nog ibbuj odo nikakeru akawo sutwino zumossoc ika. Zare ra de hora tome sucnozbe bu imo lemun sebe bahvuluw ezi. Uf ja almi ebseklu losaoz ciftabave bujibam iw tula tub tadagpi ihsazep tokje uz awo.",
+    "bio": "Wimovjiv berjofve bi rac vetegwa cizikne riac gudasof de hipewet razew avo feto mam curme guosesi ab hihlosda. Ka aruotbaw turhir sil zaku lum su ro cuurkun zo to rawal edemej bomlevnat sairlod soeztiz kij uf. Bofu cikso ni cur nu guh cecro maelefi baja fovocofe wefozoz duvcuc po bo tarsavgi ve tulbuj."
+  },
+  "apiKey": "6df3d1bf1c432bb976cb38f9a5a08ce63a930bfa80f5eeb8105de4e07a7e868f",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
